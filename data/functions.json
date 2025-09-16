@@ -1,0 +1,10 @@
+{
+  "!lp": true,
+  "!runes": true,
+  "!last": true,
+  "!champ": true,
+  "!lastgm": true,
+  "!lastchal": true,
+  "!opgg": false,
+  "!today": true
+}

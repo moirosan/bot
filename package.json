@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon test.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "fuzzball": "^2.2.2",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.9",
+    "tmi.js": "^1.8.5",
+    "transliteration": "^2.3.5",
+    "winston": "^3.17.0"
+  },
+  "name": "dimill_bot",
+  "version": "1.1.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "alexey__murzin",
+  "license": "ISC",
+  "description": ""
+}

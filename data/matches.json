@@ -1,0 +1,3002 @@
+[
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7527020232"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7527123389"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7527094240"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7527070202"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7527055090"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7527044861"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": false,
+    "matchId": "EUW1_7527033675"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7526017668"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7526009951"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7526102828"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7526080196"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7526063016"
+  },
+  {
+    "champion": "Rakan",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7526040270"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7526024115"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7525126016"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7525111815"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7525095706"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7525076723"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7525058258"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7525052877"
+  },
+  {
+    "champion": "Amumu",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7524075762"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7524120886"
+  },
+  {
+    "champion": "Amumu",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7524099619"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7524078455"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7523103498"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7523156810"
+  },
+  {
+    "champion": "Maokai",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7523135341"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7523117190"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7523106163"
+  },
+  {
+    "champion": "Pantheon",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7521272500"
+  },
+  {
+    "champion": "Brand",
+    "rune": "Темная жатва",
+    "win": true,
+    "matchId": "EUW1_7521227415"
+  },
+  {
+    "champion": "Seraphine",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7521204050"
+  },
+  {
+    "champion": "Sona",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7521172260"
+  },
+  {
+    "champion": "Taric",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7521144939"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7519474544"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7519431297"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7519400841"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7519336272"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7519307881"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7519113354"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7519101259"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7519090729"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7518559869"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7518505831"
+  },
+  {
+    "champion": "Seraphine",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7518452320"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7518418286"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7518396024"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7518365388"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7518330657"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7518302458"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7517069660"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7517128176"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7517110079"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7517094506"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7517082772"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7516054687"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7516101617"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7516085096"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7516067020"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7513705928"
+  },
+  {
+    "champion": "Lux",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7513797340"
+  },
+  {
+    "champion": "Yuumi",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7513771211"
+  },
+  {
+    "champion": "Janna",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7513749367"
+  },
+  {
+    "champion": "Morgana",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7513740490"
+  },
+  {
+    "champion": "Urgot",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7513720318"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7513713867"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": false,
+    "matchId": "EUW1_7512514020"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7512552075"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Фазовый рывок",
+    "win": true,
+    "matchId": "EUW1_7512535963"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7512519079"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7511879441"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7511843612"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7511798958"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7511740419"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7511697987"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7511646140"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7511360397"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Фазовый рывок",
+    "win": true,
+    "matchId": "EUW1_7511333427"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7511314365"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7511302725"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7511288773"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7510896120"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7510885073"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7510768844"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7510686246"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7509972279"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7510100715"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7510064417"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7510042254"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7510016672"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7509994806"
+  },
+  {
+    "champion": "Vayne",
+    "rune": "Смертельный темп",
+    "win": false,
+    "matchId": "EUW1_7508739094"
+  },
+  {
+    "champion": "Ambessa",
+    "rune": "",
+    "win": true,
+    "matchId": "EUW1_7508712294"
+  },
+  {
+    "champion": "Hwei",
+    "rune": "Темная жатва",
+    "win": false,
+    "matchId": "EUW1_7508695944"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7508678790"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7507687972"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7507666582"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7507647594"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7507622338"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7507608969"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7507018599"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7506974205"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7506932857"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7506897768"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7506860431"
+  },
+  {
+    "champion": "Lux",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7506528815"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7506608954"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7506594784"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7506568310"
+  },
+  {
+    "champion": "Brand",
+    "rune": "Темная жатва",
+    "win": false,
+    "matchId": "EUW1_7506554989"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7506536783"
+  },
+  {
+    "champion": "Viego",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7505573094"
+  },
+  {
+    "champion": "Jinx",
+    "rune": "Смертельный темп",
+    "win": true,
+    "matchId": "EUW1_7505551578"
+  },
+  {
+    "champion": "Yuumi",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7505502206"
+  },
+  {
+    "champion": "Yorick",
+    "rune": "Хватка нежити",
+    "win": false,
+    "matchId": "EUW1_7505468125"
+  },
+  {
+    "champion": "Taric",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7505443397"
+  },
+  {
+    "champion": "Riven",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7505431916"
+  },
+  {
+    "champion": "Yunara",
+    "rune": "Смертельный темп",
+    "win": false,
+    "matchId": "EUW1_7505404314"
+  },
+  {
+    "champion": "Morgana",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7505385951"
+  },
+  {
+    "champion": "Garen",
+    "rune": "Фазовый рывок",
+    "win": true,
+    "matchId": "EUW1_7505366411"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7503311992"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7503306741"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7503292139"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7503258367"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7503235575"
+  },
+  {
+    "champion": "Rakan",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7503211066"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7503191094"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7502663075"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7502604350"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7502568092"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7502516062"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7502460313"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7502183553"
+  },
+  {
+    "champion": "Renata",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7502160747"
+  },
+  {
+    "champion": "Zilean",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7502136901"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7502118242"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7502108500"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7502089254"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7501592692"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7501534943"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7501495456"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7501448754"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7501415703"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7501374607"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7501080747"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7501056491"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7501033651"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7501024538"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7501008708"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7500992407"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7500418896"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7500376328"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7500341059"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7500295369"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7500251941"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7500218372"
+  },
+  {
+    "champion": "Soraka",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7499979245"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7499959005"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7499938345"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7499924367"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7499923478"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7499912480"
+  },
+  {
+    "champion": "Karthus",
+    "rune": "Темная жатва",
+    "win": false,
+    "matchId": "EUW1_7498323000"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7497750653"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7497720794"
+  },
+  {
+    "champion": "TahmKench",
+    "rune": "Хватка нежити",
+    "win": true,
+    "matchId": "EUW1_7497691194"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7497676209"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7495475885"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7495451947"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7495436789"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7495416047"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7495404310"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7494463926"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7494420787"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7494380801"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7494375596"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7494353688"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7492701620"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7492658852"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7492612053"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7492574176"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7492231025"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7492205421"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7492187599"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7492157971"
+  },
+  {
+    "champion": "Kayn",
+    "rune": "Темная жатва",
+    "win": false,
+    "matchId": "EUW1_7488907714"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7488949857"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7488878632"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7488838212"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7488811239"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7488791674"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7487670081"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7487661274"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7487653642"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7486567112"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7486670134"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7486644406"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7486624527"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7486600526"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7486581799"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7485447438"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7485566134"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7485535063"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7485508656"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7485485694"
+  },
+  {
+    "champion": "Jhin",
+    "rune": "Темная жатва",
+    "win": false,
+    "matchId": "EUW1_7485462403"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7484297757"
+  },
+  {
+    "champion": "Rakan",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7484426383"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7484397464"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7484379690"
+  },
+  {
+    "champion": "Nami",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7484346375"
+  },
+  {
+    "champion": "Zilean",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7484338736"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7484310893"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7483217471"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7483186855"
+  },
+  {
+    "champion": "Hwei",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7483161542"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7483130674"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7483109365"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7481976227"
+  },
+  {
+    "champion": "Sivir",
+    "rune": "Смертельный темп",
+    "win": true,
+    "matchId": "EUW1_7481944398"
+  },
+  {
+    "champion": "Zyra",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7481914793"
+  },
+  {
+    "champion": "Hwei",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7481882599"
+  },
+  {
+    "champion": "Riven",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7481844894"
+  },
+  {
+    "champion": "Ashe",
+    "rune": "Смертельный темп",
+    "win": true,
+    "matchId": "EUW1_7481821157"
+  },
+  {
+    "champion": "Pantheon",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7481805895"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7481780393"
+  },
+  {
+    "champion": "Yuumi",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7480724770"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7480696889"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7480666630"
+  },
+  {
+    "champion": "Nami",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7480633309"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7480603321"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7480575511"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7480551197"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7479310832"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7479290233"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7479387691"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7479348258"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7479331058"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7478037316"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7478127931"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7478099140"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7478087906"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7478069168"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7478059232"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7478055539"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7476858103"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7476925104"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7476905846"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7476882042"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7476870531"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7476413465"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7476370100"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7476327130"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7476289503"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7476249155"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7476219177"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7475923430"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7475918703"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7476000056"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7475971490"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7475955088"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7475944785"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7474009844"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7473999275"
+  },
+  {
+    "champion": "Ornn",
+    "rune": "Хватка нежити",
+    "win": false,
+    "matchId": "EUW1_7473980544"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7472991504"
+  },
+  {
+    "champion": "Galio",
+    "rune": "Фазовый рывок",
+    "win": false,
+    "matchId": "EUW1_7473056531"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7473027437"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7473013426"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7473000830"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7472041685"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7472142334"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7472129905"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7472104101"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7472086897"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7472059246"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7472050931"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7471119798"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7471103080"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7471219734"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7471189620"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7471168646"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7471148594"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7471125144"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7470159140"
+  },
+  {
+    "champion": "Janna",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7470224233"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7470211733"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7470198028"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7470186721"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": false,
+    "matchId": "EUW1_7469160608"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7469214379"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7469197923"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7469172344"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7469163201"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7468188885"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7468170273"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7468160582"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7468150540"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7467122726"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7467105062"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7467083036"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7467059000"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7467047456"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7465055941"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7465035319"
+  },
+  {
+    "champion": "Pantheon",
+    "rune": "Решительное наступление",
+    "win": false,
+    "matchId": "EUW1_7465018051"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7465004665"
+  },
+  {
+    "champion": "Renata",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7464006130"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7463988023"
+  },
+  {
+    "champion": "Rakan",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7463968447"
+  },
+  {
+    "champion": "Amumu",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7463955143"
+  },
+  {
+    "champion": "Yunara",
+    "rune": "Смертельный темп",
+    "win": false,
+    "matchId": "EUW1_7463946060"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": false,
+    "matchId": "EUW1_7463940651"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Раскрытая книга заклинаний",
+    "win": true,
+    "matchId": "EUW1_7462859177"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7462914725"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7462891173"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7462883614"
+  },
+  {
+    "champion": "Renata",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7461885653"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7461937069"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7461910068"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7461901846"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7461894837"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7460943110"
+  },
+  {
+    "champion": "Brand",
+    "rune": "Темная жатва",
+    "win": true,
+    "matchId": "EUW1_7460925770"
+  },
+  {
+    "champion": "Lux",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7460910942"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7460904992"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7460897956"
+  },
+  {
+    "champion": "Renata",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7460890863"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7455230363"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7455304741"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7455294722"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7455279475"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7455261571"
+  },
+  {
+    "champion": "Taric",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7455240417"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7454297109"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7454376397"
+  },
+  {
+    "champion": "Hwei",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7454360635"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7454343671"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7454312759"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7452210920"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7452336108"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7452307382"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7452284266"
+  },
+  {
+    "champion": "Nami",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7452268770"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7452249808"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7452230829"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7452217189"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7451719745"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7451676250"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7451659076"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7451623573"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Град клинков",
+    "win": true,
+    "matchId": "EUW1_7451591879"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7451378729"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7451356137"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7451341923"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7451314288"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7451301242"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7451294543"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7451282219"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7450786078"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7450743043"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7450716816"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7450665427"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7450642491"
+  },
+  {
+    "champion": "Jhin",
+    "rune": "Искусное лавирование",
+    "win": true,
+    "matchId": "EUW1_7450369453"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7450451144"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7450440512"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7450414102"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7450398419"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7450383074"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7448770829"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7448923922"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7448879017"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7448845885"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7448805237"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7448045698"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7447999355"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7447956412"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7447916910"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7447876355"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7447837094"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7447582595"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7447639378"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7447611219"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7447592345"
+  },
+  {
+    "champion": "Jinx",
+    "rune": "Смертельный темп",
+    "win": false,
+    "matchId": "EUW1_7446818257"
+  },
+  {
+    "champion": "Zeri",
+    "rune": "Смертельный темп",
+    "win": true,
+    "matchId": "EUW1_7446787685"
+  },
+  {
+    "champion": "Rengar",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7446744014"
+  },
+  {
+    "champion": "Rengar",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7446740534"
+  },
+  {
+    "champion": "Rengar",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7446703692"
+  },
+  {
+    "champion": "Rengar",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7446669189"
+  },
+  {
+    "champion": "Teemo",
+    "rune": "Хватка нежити",
+    "win": true,
+    "matchId": "EUW1_7446643819"
+  },
+  {
+    "champion": "Akali",
+    "rune": "Казнь электричеством",
+    "win": false,
+    "matchId": "EUW1_7446616940"
+  },
+  {
+    "champion": "Belveth",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7446581309"
+  },
+  {
+    "champion": "Gragas",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7446542765"
+  },
+  {
+    "champion": "Rengar",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7446526119"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7446024844"
+  },
+  {
+    "champion": "TahmKench",
+    "rune": "Хватка нежити",
+    "win": true,
+    "matchId": "EUW1_7445987213"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7445957163"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7445914984"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7445874043"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7445644192"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7445620030"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7445597425"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7445588005"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7445570323"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7445562654"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7445549058"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7445033534"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7445006666"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7444971658"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7444917432"
+  },
+  {
+    "champion": "Karma",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7444676809"
+  },
+  {
+    "champion": "Maokai",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7444657815"
+  },
+  {
+    "champion": "Zilean",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7444647538"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7444635608"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7444615341"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7444601374"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7444591412"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7444062900"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7444022448"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7443973165"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7443939538"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7443895809"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7443870804"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7443694894"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7443676538"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7443654036"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7443644785"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7443632249"
+  },
+  {
+    "champion": "Seraphine",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7443622167"
+  },
+  {
+    "champion": "Bard",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7443614722"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7443131684"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7443083444"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7443048222"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7443008357"
+  },
+  {
+    "champion": "Seraphine",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7442975248"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": false,
+    "matchId": "EUW1_7442934329"
+  },
+  {
+    "champion": "Blitzcrank",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7442670532"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7442749620"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7442724988"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7442707692"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": false,
+    "matchId": "EUW1_7442688637"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7440740394"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7440818538"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7440791806"
+  },
+  {
+    "champion": "Seraphine",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7440778679"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7440761688"
+  },
+  {
+    "champion": "Sion",
+    "rune": "Казнь электричеством",
+    "win": false,
+    "matchId": "EUW1_7439760323"
+  },
+  {
+    "champion": "Sejuani",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7439732502"
+  },
+  {
+    "champion": "Shaco",
+    "rune": "Темная жатва",
+    "win": true,
+    "matchId": "EUW1_7439706722"
+  },
+  {
+    "champion": "Morgana",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7439676167"
+  },
+  {
+    "champion": "Irelia",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7439666215"
+  },
+  {
+    "champion": "Irelia",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7439655782"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7439057358"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7438676355"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7438777877"
+  },
+  {
+    "champion": "Maokai",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7438739425"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7438721446"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7438712665"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7438696090"
+  },
+  {
+    "champion": "Seraphine",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7437792031"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7437777949"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7437758932"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7437743556"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7435816171"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7435800327"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7435784267"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7435778839"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7435770745"
+  },
+  {
+    "champion": "Thresh",
+    "rune": "Ледяной нарост",
+    "win": true,
+    "matchId": "EUW1_7435753449"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7434820803"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Ледяной нарост",
+    "win": false,
+    "matchId": "EUW1_7434810008"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7434866653"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7434840249"
+  },
+  {
+    "champion": "Brand",
+    "rune": "Темная жатва",
+    "win": true,
+    "matchId": "EUW1_7433487526"
+  },
+  {
+    "champion": "Gwen",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7433456986"
+  },
+  {
+    "champion": "Darius",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7433362622"
+  },
+  {
+    "champion": "Lulu",
+    "rune": "Казнь электричеством",
+    "win": true,
+    "matchId": "EUW1_7433275236"
+  },
+  {
+    "champion": "Urgot",
+    "rune": "Завоеватель",
+    "win": false,
+    "matchId": "EUW1_7433192749"
+  },
+  {
+    "champion": "Rumble",
+    "rune": "Магическая комета",
+    "win": true,
+    "matchId": "EUW1_7432808246"
+  },
+  {
+    "champion": "Nami",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7432787694"
+  },
+  {
+    "champion": "Rumble",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7432766670"
+  },
+  {
+    "champion": "Riven",
+    "rune": "Завоеватель",
+    "win": true,
+    "matchId": "EUW1_7432748542"
+  },
+  {
+    "champion": "Taric",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7432728617"
+  },
+  {
+    "champion": "Soraka",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7432716653"
+  },
+  {
+    "champion": "Jhin",
+    "rune": "Темная жатва",
+    "win": true,
+    "matchId": "EUW1_7432096619"
+  },
+  {
+    "champion": "Neeko",
+    "rune": "Магическая комета",
+    "win": false,
+    "matchId": "EUW1_7431699356"
+  },
+  {
+    "champion": "Braum",
+    "rune": "Страж",
+    "win": true,
+    "matchId": "EUW1_7431854317"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7431822019"
+  },
+  {
+    "champion": "Milio",
+    "rune": "Призыв Пушинки",
+    "win": true,
+    "matchId": "EUW1_7431790878"
+  },
+  {
+    "champion": "Jhin",
+    "rune": "Искусное лавирование",
+    "win": true,
+    "matchId": "EUW1_7431775210"
+  },
+  {
+    "champion": "Rell",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7431752698"
+  },
+  {
+    "champion": "Brand",
+    "rune": "Темная жатва",
+    "win": false,
+    "matchId": "EUW1_7431720591"
+  },
+  {
+    "champion": "Pyke",
+    "rune": "Град клинков",
+    "win": false,
+    "matchId": "EUW1_7430698050"
+  },
+  {
+    "champion": "Alistar",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7430684075"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7430671800"
+  },
+  {
+    "champion": "Leona",
+    "rune": "Дрожь земли",
+    "win": true,
+    "matchId": "EUW1_7430741100"
+  },
+  {
+    "champion": "Poppy",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7430718434"
+  },
+  {
+    "champion": "Nautilus",
+    "rune": "Дрожь земли",
+    "win": false,
+    "matchId": "EUW1_7429723548"
+  }
+]

@@ -1,0 +1,10 @@
+[Unit]
+Description=MyBot
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node /root/bot/index.js
+WorkingDirectoryq=/root/bot/bot
+Restart=always
+
